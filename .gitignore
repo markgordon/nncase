@@ -272,3 +272,4 @@ tmp/
 tests/private
 *.exe
 *.tflite
+*.nncase
